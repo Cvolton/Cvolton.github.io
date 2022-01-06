@@ -1,2 +1,2 @@
 # Cvolton.github.io
-and gdps.me too
+not gdps.me anymore
